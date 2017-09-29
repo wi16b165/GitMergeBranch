@@ -10,6 +10,14 @@ namespace GitMergeBranch
     {
         static void Main(string[] args)
         {
+            // change in master
+
+            // Change in Branch
+        }
+
+        private void ChangeInMaster()
+        {
+
         }
     }
 }
